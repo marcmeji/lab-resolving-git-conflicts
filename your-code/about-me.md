@@ -1,7 +1,7 @@
 ```
 # Who am I
 
-* Where are you from? I was born in Barcelona.
+* Where are you from? I was NOT born in Barcelona.
 * What do you do? I am a biologist.
 * Do you have previous experience with technology/data? Not much.
 
