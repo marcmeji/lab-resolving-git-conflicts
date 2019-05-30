@@ -1,6 +1,6 @@
 ```
 
-
+NEW CONFLICT
 
 * What has brought you to Ironhack? I want to change my career.
 * What knowledge/skills do you expect to learn in this bootcamp? I would like to learn as much as possible.
