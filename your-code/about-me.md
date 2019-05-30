@@ -1,5 +1,5 @@
 ```
-CONFLICT CONFLICT
+DIFFERENT conflict
 # Who am I
 
 * Where are you from? I was NOT born in Barcelona.
